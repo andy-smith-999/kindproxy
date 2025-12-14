@@ -139,6 +139,6 @@ For engineers and developers who care about:
 
 ## Useful Links
 
-- Official Website (with source tracking): [KindProxy](https://www.kindproxy.com/?spread=github)
+- Official Website : [KindProxy](https://www.kindproxy.com/?spread=github)
 - Documentation: [KindProxy Docs](https://kindproxy.gitbook.io/kindproxy-docs)
 
